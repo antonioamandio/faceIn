@@ -1,7 +1,9 @@
+import { Login } from "./pages/Vigilant/Login";
+
 export function App() {
   return (
-    <>
-      <h1>Hello World</h1>
-    </>
+    <div>
+      <Login />
+    </div>
   );
 }
